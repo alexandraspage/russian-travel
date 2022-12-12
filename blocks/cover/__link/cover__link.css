@@ -2,11 +2,10 @@
     position: relative;
     background-image: url(../../../images/cover-trains.jpg);
     max-width: 1184px;
-    min-height: 740px; 
+    min-height: 740px;
     background-size: cover;
     color:#FFFFFF;
     text-decoration: none;
-    display: block;
     background-repeat: no-repeat;
     margin-left: auto;
     margin-right: auto;
