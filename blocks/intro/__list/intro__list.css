@@ -7,9 +7,7 @@
     margin: 0;
     max-width: 690px;
  }
- .intro__list_font-weight_normal{
-    font-weight: normal;
- }
+
  @media screen and (max-width: 768px){
 
    .intro__list{
