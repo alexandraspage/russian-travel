@@ -1,0 +1,40 @@
+.lead{
+    max-width: 984px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 92px;
+    display: flex;
+    flex-direction: column;
+ }
+
+ @media screen and (max-width: 1024px){
+
+    .lead{
+        max-width: calc(100% - 48px * 2);
+        margin-top: 48px;
+    }
+    
+ }
+ @media screen and (max-width: 768px){
+
+    .lead{
+        max-width: 100%;
+        margin-top: 48px;
+        margin-bottom: 88px;
+        margin-left: 0;
+
+    }
+    
+ }
+ @media screen and (max-width: 425px){
+
+    .lead{
+        max-width: 100%;
+        margin-top: 48px;
+        margin-bottom: 64px;
+        margin-left: 0;
+
+
+    }
+    
+ }
