@@ -3,10 +3,11 @@
     grid-column: 2;
     align-self: end;
    }
-   @media screen and (max-width: 470px){
+   @media screen and (max-width: 635px){
     .place__website{
-      min-width: 288px;
+      max-width: 100%;
       align-self: start;
+      margin: 0 16px;
     }
     
   }

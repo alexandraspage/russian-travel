@@ -38,13 +38,11 @@
 }  
 @media screen and (max-width: 768px){
    .cover__link{
-       width: 100%;
        min-height: 480px;
    }
 }  
 @media screen and (max-width: 425px){
    .cover__link{
-       width: 100%;
        min-height: 200px;
    }
 }  
